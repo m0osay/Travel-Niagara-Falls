@@ -85,27 +85,32 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
+`TODO://` Add the embedded URL code to your animated app walkthrough below, 
 
-`ADD_EMBEDDED_CODE_HERE`
+<div style="position: relative; padding-bottom: 57.38575982996812%; height: 0;"><iframe src="https://www.loom.com/embed/2bf27f2d72a04fcd94a57a7eac022e78?sid=16f2d8a6-899f-4032-a4d1-22bbf441d554" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes the labs helped me a lot, especially with the flexbox. I was struggling a lot with, and the labs help me become comfortable with the idea. But some features I felt prepared is with getting the correct benner size, because the when it strecthed, it wasn't as good. Also another issue I had was with wireframe, I wish we went more in detail about them, I had to learn it on my own. And it hurted me not to have a good wireframe from the beginning because I kept changing it so many times. 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
-  
-Add your response here
+
+If I had more time, I would have first came up with a better plan, especially with the wireframe, knowing how the interitance with the container worked would be helpful at the beginning. So I can do my flexbox better.   
+
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I really liked my animation for my projects and the design. I liked my font I used for the Niagara falls, and my peers really liked the animination I added for when you click the link. Some things that didnt go as planend was my banenr size.
 
 ### Open-source libraries used
 
 - Add any links to open-source libraries used in your project.
+https://www.w3schools.com/
+
 
 ### Shout out
 

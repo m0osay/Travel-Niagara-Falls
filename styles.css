@@ -32,7 +32,7 @@ a{
     flex-direction: row;
     justify-content: space-between;
     align-items:flex-end;
-    gap: 10px; 
+    gap: 100px; 
     margin: 0;
     height: 100px;
  
@@ -440,7 +440,7 @@ a{
     flex-direction: row;
     justify-content: space-between;
     align-items:flex-end;
-    gap: 100px; 
+    gap: 10px; 
     margin: 0;
     height: 100px;
  
@@ -452,6 +452,116 @@ a{
     padding: 10px;
     border:auto
 }
+
+
+}
+
+/* Tablet */
+@media  screen and (min-height : 768px)  and (max-height: 1023px){
+nav{
+    background-color: #f8f8f8;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    max-height: 85px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between; 
+}
+
+
+a{
+    text-decoration: none; 
+}
+
+#Logo{
+    font-family: "Edu SA Hand", cursive;
+    font-size: 20px;
+    text-align: left;
+    flex: 1;
+    justify-content:first baseline;
+}
+
+.nav-buttons-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    gap: 1px; 
+    margin: 0;
+    height: 100px;
+ 
+}
+.nav-buttons{
+  font-family: "Newsreader", serif;
+  font-size: 15px;
+    margin: autp;
+    padding: 10px;
+    border:auto
+}
+
+.nav-buttons{
     
 }
+}
+
+
+
+/* Phone */
+@media  screen and (max-height: 767px){
+nav{
+    background-color: #f8f8f8;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    max-height: 85px;
+    display:flex;
+    flex-direction:column;
+    justify-content: center; 
+}
+
+
+a{
+    text-decoration: none; 
+}
+
+#Logo{
+    font-family: "Edu SA Hand", cursive;
+    font-size: 34px;
+    text-align: left;
+    flex: 1
+}
+
+.nav-buttons-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items:flex-end;
+    flex-wrap: wrap;
+    gap: 10px; 
+    margin: 0px;
+    height: 100px;
+
+}
+
+.nav-buttons{
+  font-family: "Newsreader", serif;
+  display: flex;
+  font-size: 5px;
+  margin: autp;
+  padding: 10px;
+  border:auto
+}
+
+
+}
+
+
+
+
+
+
+
+
+
 
